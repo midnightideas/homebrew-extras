@@ -1,5 +1,3 @@
-require 'formula'
-
 class Sshpass < Formula
   url 'https://sourceforge.net/projects/sshpass/files/sshpass/1.09/sshpass-1.09.tar.gz'
   homepage 'http://sourceforge.net/projects/sshpass'
