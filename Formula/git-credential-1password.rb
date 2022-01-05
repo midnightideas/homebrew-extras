@@ -3,7 +3,7 @@ class GitCredential1password < Formula
   homepage 'https://github.com/midnightideas/git-credential-1password'
   head 'https://github.com/midnightideas/git-credential-1password.git'
   url 'https://github.com/midnightideas/git-credential-1password/releases/download/v1.2.0/git-credential-1password-v1.2.0.tar.gz'
-  sha256 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+  sha256 '62ffda3616a79e1b7a075da316678f6bdce3d0f35ae9af7fdef7059d940c37d2'
   license 'MIT'
 
   depends_on 'jq'
