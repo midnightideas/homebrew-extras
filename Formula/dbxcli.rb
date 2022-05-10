@@ -3,7 +3,7 @@ class Dbxcli < Formula
 
   if OS.mac?
     @@os = "darwin"
-    checksum = "1149a2aa6a89829c6d540d04cc1db8cf5bb27e3d8b0ec6b32d830a6818bd7573"
+    checksum = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   elsif OS.linux?
     @@os = "linux"
     checksum = "3ff6e29675095063a5ba7101115cf7f809f3deddf14998ac61bf7a0330d736cb"
